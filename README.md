@@ -48,4 +48,11 @@ This project features an interactive fixed navigation menu that dynamically chan
    Web Development Intern – SkillCraft Technology
 
   📧 Email:goldisinghrajput2006@gmail.com
+
+   🔗 GitHub: 
+  
+  🌐 Live Project:
+  
+  💼 LinkedIn: https://www.linkedin.com/in/goldi-singh-rajput-a62b7b2b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
   
