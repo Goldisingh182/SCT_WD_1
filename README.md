@@ -49,7 +49,7 @@ This project features an interactive fixed navigation menu that dynamically chan
 
   📧 Email:goldisinghrajput2006@gmail.com
 
-   🔗 GitHub: 
+   🔗 GitHub: https://github.com/Goldisingh182/SCT_WD_1
   
   🌐 Live Project:
   
